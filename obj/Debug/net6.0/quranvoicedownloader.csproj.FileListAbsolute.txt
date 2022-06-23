@@ -1,0 +1,15 @@
+/home/leverow/developer/quranvoicedownloader/bin/Debug/net6.0/quranvoicedownloader
+/home/leverow/developer/quranvoicedownloader/bin/Debug/net6.0/quranvoicedownloader.deps.json
+/home/leverow/developer/quranvoicedownloader/bin/Debug/net6.0/quranvoicedownloader.runtimeconfig.json
+/home/leverow/developer/quranvoicedownloader/bin/Debug/net6.0/quranvoicedownloader.dll
+/home/leverow/developer/quranvoicedownloader/bin/Debug/net6.0/quranvoicedownloader.pdb
+/home/leverow/developer/quranvoicedownloader/obj/Debug/net6.0/quranvoicedownloader.csproj.AssemblyReference.cache
+/home/leverow/developer/quranvoicedownloader/obj/Debug/net6.0/quranvoicedownloader.GeneratedMSBuildEditorConfig.editorconfig
+/home/leverow/developer/quranvoicedownloader/obj/Debug/net6.0/quranvoicedownloader.AssemblyInfoInputs.cache
+/home/leverow/developer/quranvoicedownloader/obj/Debug/net6.0/quranvoicedownloader.AssemblyInfo.cs
+/home/leverow/developer/quranvoicedownloader/obj/Debug/net6.0/quranvoicedownloader.csproj.CoreCompileInputs.cache
+/home/leverow/developer/quranvoicedownloader/obj/Debug/net6.0/quranvoicedownloader.dll
+/home/leverow/developer/quranvoicedownloader/obj/Debug/net6.0/refint/quranvoicedownloader.dll
+/home/leverow/developer/quranvoicedownloader/obj/Debug/net6.0/quranvoicedownloader.pdb
+/home/leverow/developer/quranvoicedownloader/obj/Debug/net6.0/quranvoicedownloader.genruntimeconfig.cache
+/home/leverow/developer/quranvoicedownloader/obj/Debug/net6.0/ref/quranvoicedownloader.dll
