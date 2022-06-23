@@ -7,10 +7,7 @@ public class AlQuran
     private int _countDo = 0;
     public delegate void OnDownloadedDelegate(int orderid, Stopwatch x);
     public OnDownloadedDelegate OnDownloaded {get;set;}
-    public AlQuran()
-    {
-        
-    }
+    
     private void run(int number, int downloadFileID)
     {
         var timer = new Stopwatch();
